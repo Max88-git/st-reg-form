@@ -1,5 +1,5 @@
 # st_reg_form
-A Student Registration Form for EduCare. This was an assignment from my training at It Career Swap. 
+A Student Registration Form for EduCare. This was an assignment from my training at IT Career Swap. 
 
 
 # What I Learned
