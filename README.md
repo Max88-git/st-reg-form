@@ -2,7 +2,7 @@
 A Student Registration Form for EduCare. This was an assignment from my training at IT Career Swap. 
 
 
-# What I Learned
+# What I Learnt
 * How to use HTML to create the structure of a input form.
 * How to style textareas and make inputs the same width.
 * Use select elements for dropdown lists to collect user input.
